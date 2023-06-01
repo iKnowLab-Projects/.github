@@ -1,6 +1,6 @@
-## Hello There! We are iKnowLab.
+## Hello There! We are iKnowLab
 
-### We are team of Artificial Intellegence experts.
+### We are a team of Artificial Intellegence experts.
 
 ### To join our lab or have interest of working together please go to the following site.
 https://sites.google.com/view/iknow-lab/
